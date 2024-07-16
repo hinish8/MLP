@@ -1,0 +1,4 @@
+Each of the neuron, represents a bias that can be tuned.
+Each of the line (connecting two neurons) that is the weight
+Weights + Bias = Parameters that can be tuned.
+The huge task is how to tune these Parameters ??

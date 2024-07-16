@@ -1,2 +1,2 @@
 # MLP
-Implementing - multi-layer perceptron (MLP)
+Implementation of a multi-layer perceptron
